@@ -1,0 +1,1 @@
+print("Hello")  # print是打印的作用
